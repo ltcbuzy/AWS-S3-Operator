@@ -1,4 +1,5 @@
 # AWS S3 Operator
+![feature-img-1024x862](https://github.com/ltcbuzy/AWS-S3-Operator/assets/96268218/20b322ef-e1b5-4033-95ae-b736d7fe38ea)
 
 Amazon S3 (Simple Storage Service) is a scalable and widely used object storage service that allows developers to store and retrieve any amount of data at any time. In Kubernetes environments, managing interactions with S3 can be streamlined with the help of specialized operators. In this article, we'll delve into the [AWS S3 Operator](https://aws.amazon.com/s3/), a tool designed to simplify S3-related operations within Kubernetes clusters.
 What is an Operator?
